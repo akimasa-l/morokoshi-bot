@@ -161,6 +161,7 @@ for i in range(5):
 
 今回書いたソースコードはここに載せています。
 
+<https://github.com/akimasa-l/morokoshi-bot>
 
 # さいごに
 
