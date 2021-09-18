@@ -1,0 +1,17 @@
+Our school has been introducing inquiry classes for several years, but there have been some issues.
+First of all, although we are aware of the importance of statistics, we only cover the basics in Mathematics I class and have not been able to secure enough time for practical training using spreadsheets.
+As for AI, we have invited major companies as guests to give lectures, but we only have that opportunity once a year.
+The second issue is the lack of opportunities for students to acquire practical coding skills. For programming, we had robot control using block coding and drawing turtle geometry, but there was no text coding class to learn after that, and we were just thinking about designing.
+In order to learn these things in a unified manner, we thought that learning Python would be essential for the future.
+In addition, when we asked a graduate to hold a short intensive course on Python basics, we saw the potential to expand learning opportunities to the entire grade level, and decided to introduce Python in the first-year high school information class.
+Since it was difficult to prepare suitable teaching materials for a high school class, we tried to find content that could be learned online and came across the Aidemy website.
+I have always felt that programming has a lot of grammar and terminology to learn first, and that a system that allows students to learn at their own pace is more suitable than a simultaneous class.
+However, I have seen firsthand that simply learning the rudiments of a programming language lacks a sense of purpose and does not last long.
+However, the content of Aidemy Business does not stop at learning Python, but also touches on AI applications, the basics of machine learning and statistics, and applied technologies such as blockchain and image recognition.
+I was attracted to this aspect of the course.
+In addition, the fact that there is no need to build any environment to learn Python, and that coding can be learned in a drill style on a browser, and that hints and answers can be easily viewed, lowers the hurdle for first-time learners.
+The satisfaction level of the students was extremely high.
+Most of our students have always wanted to learn programming but were confused about how to get started, so we feel that using Aidemy Business has been a big step forward.
+Although many students struggled to understand the concepts of the class and to create original code, they were able to learn about AI and machine learning, which are all over the world, and the significance of learning programming and data science was fully conveyed to them.
+As teachers, we also learned a lot from using the program, and I feel that the level of theme setting presented by the students in the inquiry classes has gone up a notch.
+While we continue to develop original materials for our school, we would like to introduce IDEME content to motivated junior high school students and provide them with opportunities to learn about Python and what machine learning can do from an earlier stage.
